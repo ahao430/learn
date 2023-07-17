@@ -1,0 +1,13 @@
+{
+    "generator-gyc": {
+        "promptValues": {
+            "appName": "my-app",
+            "appid": "appid",
+            "gitSite": ".git",
+            "model": ["sparkBanner", "subscribe"],
+            "minidev": true,
+            "devPhone": "13642354445",
+            "testPhone": "18966667777"
+        }
+    }
+}
